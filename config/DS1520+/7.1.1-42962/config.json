@@ -1,7 +1,7 @@
 {
   "os": {
     "id": "ds1520p_42962",
-    "pat_url": "https://global.download.synology.com/download/DSM/release/7.1.1/42962/DSM_ds1520p_42962.pat",
+    "pat_url": "https://global.download.synology.com/download/DSM/release/7.1.1/42962/DSM_DS1520%2B_42962.pat",
     "sha256": "f19d2ac39fae564797c148929b8fe7c9740ac3a74099bf573b68df8fe0228cb3"
   },
 
@@ -15,7 +15,7 @@
       "sha256": "aad75938d165ef5efdbfc4c570c4cd1cc252344d0756dd3d89a44f581aa6be6f"
     },
     "vmlinux": {
-      "sha256": "08291e1c3812de8c1416f95503b44a04edee66e233c210d9bce351bb51e081c8  "
+      "sha256": "08291e1c3812de8c1416f95503b44a04edee66e233c210d9bce351bb51e081c8"
     }
   },
 
