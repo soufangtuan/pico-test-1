@@ -4,7 +4,7 @@
   "files": [
     {
       "name": "check-virtio.sh",
-      "url": "https://raw.githubusercontent.com/soufangtuan/pico-test-1/develop/redpill-virtio/src/check-virtio.sh",
+      "url": "https://raw.githubusercontent.com/RedPill-TTG/redpill-virtio/master/src/check-virtio.sh",
       "sha256": "cedced0bf29ff691ab6b4a7e2001efa40b2cc5fd31e3a9834d210a4b3408ded8",
       "packed": false
     },
